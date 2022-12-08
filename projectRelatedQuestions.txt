@@ -1,0 +1,27 @@
+Git commands ==> 
+git clone <path>
+git add .
+git commit -m "message"
+git remote add github <path>
+git remote -v
+git push -f github <branchname>
+what is project Architecture == DONE==>layer architechture
+what roles and responsibilities in the project==>DONE==>java developer,analysing,coding ,testing,Scrum calls,tracking team growth
+what are technologies you worked on == DONE==>java,my sql wokbench,.Net , MS sql server
+what are the tools you used in your project == DONE ==> postman, rabbitMQ
+which IDE you have used in development == DONE==>Ecllipse
+what are the database you worked on ==DONE==>sql sever, my sql 
+what are the server/platforms you worked on == DONE==> tomcat, IIS , kestrel
+which enivornment/os you working onhave you ever been involved in to design ==DONE==> windows, no
+what are reporting tools used in your project == DONE ==> JIRA
+build management tool used in your project == DONE ==> Maven
+what is volume of data against which your application runs
+how do you manage security like managing your credentials/data encryption
+how do you write unit test cases
+what is your team size==>six
+do you have experience in production support
+
+*******************************************************************
+why real time projects take more time compared to,poc  ==> as different phase are involved in project
+sdlc in project == Agile
+rabbit MQ
